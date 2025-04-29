@@ -1,0 +1,15 @@
+ticketReversition/
+__pycache__/
+*.pyc
+*.pyo
+*.sqlite3
+*.log
+*.env
+*.pot
+*.py[cod]
+*.DS_Store
+.vscode/
+.idea/
+**/migrations/*.py
+!**/migrations/__init__.py
+
